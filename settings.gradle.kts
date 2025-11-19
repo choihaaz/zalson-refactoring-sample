@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "zalson-refactoring-sample"
 include(":app")
+include(":core:designsystem")
